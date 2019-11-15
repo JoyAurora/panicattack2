@@ -1,0 +1,113 @@
+body {
+	background-image: url(media/background.jpg);
+	background-color: #dea5a4;
+	font-family: 'Bebas Neue', cursive;
+	margin-left: 5em;
+	margin-right: 5em;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: bold;
+	color: pink;
+	font-size: 40px;
+	display: block;
+	
+
+}
+
+h2 {
+	background-color: black;
+	font-family: 'Bebas Neue', cursive;
+	color: white;
+	padding: 5px;
+	margin: none;
+	width: 100%;
+	font-size: 20px;
+
+}
+
+h3 {
+	font-size: 20px;
+	font-family: 'bebas neue';
+	color: red;
+}
+
+.main {
+	text-align: center;
+	
+	position: inline-block;
+}
+
+
+section  {
+	font-size: 20px;
+	font-family: 'bebas Neue', cursive;
+	background-color: pink;
+	width: 30px;
+	height: 35px;
+	display: inline-block;
+	margin: auto, auto;
+
+
+	
+
+}
+
+.cafe img{
+	width: 20em;
+	height: 20em;
+	min-width: 5em;
+	border-radius: 50%;
+	margin: 0.5em;
+	text-align: center;
+
+}
+
+.one {
+	
+	background-color: pink;
+	width: 30em;
+	text-align: center;
+	padding: 15px;
+	margin: 10px 10px 10px 10px;
+	height: 33em;
+	
+}
+
+.two  {
+	
+	background-color: pink;
+	width: 30em;
+	text-align: center;
+	padding: 15px;
+	margin: 10px 10px 10px 10px;
+	height: 33em;
+
+	
+}
+
+.three {
+	
+	background-color: pink;
+	width: 30em;
+	text-align: center;
+	padding: 15px;
+	margin: 10px 10px 10px 10px;
+	height: 35em;
+}
+
+.four {
+	
+	background-color: pink;
+	width: 30em;
+	text-align: center;
+	padding: 15px;
+	margin: 10px 10px 10px 10px;
+	height: 35em;
+}
+
+span {
+	font-style: italic;
+}
